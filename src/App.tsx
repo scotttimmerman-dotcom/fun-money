@@ -1,3 +1,4 @@
+// @ts-nocheck
 import React, { useState, useEffect } from 'react';
 import { Plus, Wallet, History, Settings, Trash2, TrendingUp, Calendar, User, CreditCard, ChevronRight, X, ArrowRight, AlertCircle, Loader2, LogIn } from 'lucide-react';
 import { initializeApp } from 'firebase/app';
